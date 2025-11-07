@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 320">
+  <defs>
+    <linearGradient id="bodyGradient" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0" stop-color="#dfe2e8" />
+      <stop offset="1" stop-color="#bdc3ce" />
+    </linearGradient>
+    <linearGradient id="screenGradient" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0" stop-color="#7ca477" />
+      <stop offset="1" stop-color="#5d7c54" />
+    </linearGradient>
+  </defs>
+  <rect x="15" y="10" width="170" height="300" rx="24" fill="url(#bodyGradient)" />
+  <rect x="40" y="35" width="120" height="100" rx="8" fill="#2f3b4a" />
+  <rect x="48" y="43" width="104" height="84" rx="6" fill="url(#screenGradient)" />
+  <circle cx="60" cy="42" r="6" fill="#b12a54" />
+  <path d="M60 38h38" stroke="#b12a54" stroke-width="2" stroke-linecap="round" />
+  <path d="M98 38l12-10" stroke="#b12a54" stroke-width="2" stroke-linecap="round" />
+  <rect x="40" y="150" width="50" height="50" rx="10" fill="#2f3b4a" />
+  <rect x="54" y="157" width="22" height="36" rx="4" fill="#3d4b5e" />
+  <rect transform="rotate(90 65 175)" x="54" y="157" width="22" height="36" rx="4" fill="#3d4b5e" />
+  <circle cx="142" cy="172" r="18" fill="#b12a54" />
+  <circle cx="162" cy="196" r="10" fill="#b12a54" />
+  <rect x="118" y="220" width="40" height="12" rx="4" fill="#a2a8b3" />
+  <rect x="120" y="238" width="36" height="8" rx="4" fill="#a2a8b3" />
+  <circle cx="73" cy="246" r="10" fill="#4d5669" />
+  <circle cx="73" cy="270" r="10" fill="#4d5669" />
+  <rect x="52" y="288" width="96" height="10" rx="4" fill="#8b93a2" />
+</svg>
